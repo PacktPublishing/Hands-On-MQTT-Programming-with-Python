@@ -1,0 +1,8 @@
+# Book: Hands-On MQTT Programming with Python
+# Author: Gaston C. Hillar - Twitter.com/gastonhillar
+# Publisher: Packt Publishing Ltd. - http://www.packtpub.com
+# Replace 192.168.1.1 with the IP or hostname for the Mosquitto
+# or other MQTT server
+# Make sure the IP or hostname matches the value 
+# you used for Common Name
+mosquitto_sub -h 192.168.1.1 -V mqttv311 -p 8883 --cafile ca.crt --cert device001.crt --key device001.key -t vehicles/vehiclepi01/executedcommands --tls-version tlsv1.2
