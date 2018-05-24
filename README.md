@@ -28,3 +28,4 @@ You need a basic knowledge of Python 3.6.x and IoT boards.
 * [Python Network Programming Cookbook - Second Edition](https://www.packtpub.com/networking-and-servers/python-network-programming-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781786463999)
 
 * [Mastering Python Data Analysis with Pandas [Video]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-python-data-analysis-pandas-video?utm_source=github&utm_medium=repository&utm_campaign=9781787280083)
+
